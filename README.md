@@ -1,362 +1,316 @@
-# 🌟 زبان‌کاو | پلتفرم هوش مصنوعی و پردازش زبان طبیعی
+# 🌊 زبان‌کاو | جادوگران کد و هوش مصنوعی
 
 <div align="center">
 
-![زبان‌کاو](https://via.placeholder.com/800x200/667eea/ffffff?text=🧠+زبان‌کاو+|+آینده+زبان+را+بسازیم)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=زبان‌کاو&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=کد%20کن،%20بساز،%20بترکون!&descAlignY=60&descAlign=50)
 
-[![وضعیت پروژه](https://img.shields.io/badge/وضعیت-فعال%20🟢-brightgreen?style=for-the-badge&labelColor=2d3748)](https://github.com/zabankav)
-[![اعضای فعال](https://img.shields.io/badge/اعضا-۵۰۰+-ff6b6b?style=for-the-badge&labelColor=2d3748)](https://t.me/ZabanKavIAUQ)
-[![پروژه‌ها](https://img.shields.io/badge/پروژه‌ها-۲۰+-4ecdc4?style=for-the-badge&labelColor=2d3748)](https://github.com/zabankav)
-[![ورکشاپ‌ها](https://img.shields.io/badge/ورکشاپ‌ها-هفتگی-feca57?style=for-the-badge&labelColor=2d3748)](https://t.me/ZabanKavIAUQ)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Vazir&size=25&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🧠+پردازش+زبان+طبیعی+فارسی;🤖+هوش+مصنوعی+و+یادگیری+ماشین;🚀+نوآوری+در+فناوری+زبان;💎+بزرگترین+جامعه+NLP+ایران)](https://git.io/typing-svg)
 
-**🎯 کد کن، بساز، بترکون!**
-
-*"زبان فقط واژه نیست؛ داده‌ست، معناست، یادگیریه، آینده‌ست"*
-
-[🏠 خانه](#-درباره-ما) • [🚀 امکانات](#-امکانات-خفن) • [📚 مسیر یادگیری](#-مسیر-یادگیری) • [🎮 چالش‌ها](#-چالش‌های-باحال) • [🤝 جامعه](#-جامعه-ما)
+![](https://komarev.com/ghpvc/?username=zabankav&color=667eea&style=for-the-badge&label=بازدیدکننده)
+![](https://img.shields.io/github/followers/zabankav?color=667eea&style=for-the-badge&label=دنبال‌کننده)
+![](https://img.shields.io/badge/وضعیت-آنلاین%20🟢-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/محل-قم،%20ایران-red?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎪 درباره ما
+## 🎭 **درباره من**
 
-<div align="right">
-
-**زبان‌کاو** اولین و بزرگترین هسته دانشجویی **هوش مصنوعی و پردازش زبان طبیعی** در **دانشگاه آزاد اسلامی قم** است که قراره آینده رو بسازه! 🚀
-
-### 💫 چشم‌انداز ما
-دنیایی که در اون **زبان فارسی** با **قدرت هوش مصنوعی** ترکیب می‌شه و محدودیت‌ها رو می‌شکونه!
-
-### 🎯 مأموریت ما  
-ساختن بزرگترین جامعه فارسی‌زبان **NLP** و **AI** که از صفر تا صد یادت می‌ده و باهات می‌سازه!
-
-</div>
-
----
-
-## 🔥 وضعیت لحظه‌ای سیستم
+```yaml
+نام: "زبان‌کاو - هسته هوش مصنوعی دانشگاه آزاد قم"
+سن: "۲ سال فعالیت مستمر 🎂"
+شغل: "جادوگر کدنویسی و NLP 🧙‍♂️"
+زبان‌های_برنامه‌نویسی: ["Python 🐍", "JavaScript ⚡", "Julia 💎", "R 📊"]
+علاقه‌مندی‌ها: ["AI 🤖", "NLP 🗣️", "Deep Learning 🧠", "فارسی 🇮🇷"]
+وضعیت_فعلی: "در حال ساختن آینده زبان فارسی 🚀"
+قدرت_فوق‌العاده: "تبدیل کلمات به کد و کد به جادو ✨"
+```
 
 <div align="center">
 
-| 📊 بخش | 📈 وضعیت | 🎯 پیشرفت | 🏆 امتیاز |
-|---------|-----------|-----------|----------|
-| **🧠 مدل‌های NLP** | `🟢 آنلاین` | ![90%](https://progress-bar.dev/90) | ⭐⭐⭐⭐⭐ |
-| **📚 محتوای آموزشی** | `🟢 به‌روز` | ![85%](https://progress-bar.dev/85) | ⭐⭐⭐⭐⭐ |
-| **🎮 چالش‌های کدنویسی** | `🟡 در حال توسعه` | ![70%](https://progress-bar.dev/70) | ⭐⭐⭐⭐ |
-| **🤖 ربات‌های تلگرام** | `🟢 فعال` | ![95%](https://progress-bar.dev/95) | ⭐⭐⭐⭐⭐ |
-| **📱 اپلیکیشن موبایل** | `🔴 در انتظار` | ![30%](https://progress-bar.dev/30) | ⭐⭐ |
+### 🌟 **حال و هوای الان:**
 
-</div>
-
----
-
-## 🎨 امکانات خفن
-
-### 🧠 **هوش مصنوعی حرفه‌ای**
 ```python
-# مثال سریع - تحلیل احساسات فارسی
-from zabankav import SentimentAnalyzer
-
-analyzer = SentimentAnalyzer('persian')
-result = analyzer.analyze("زبان‌کاو فوق‌العاده است!")
-print(f"احساس: {result.emotion} | اطمینان: {result.confidence}%")
-# خروجی: احساس: مثبت 😊 | اطمینان: 94%
-```
-
-<div align="center">
-
-### 🎯 **کارهایی که باهام می‌تونی بکنی:**
-
-| 🔥 **فوری و هیجان‌انگیز** | 🚀 **پیشرفته و قدرتمند** | 🎪 **تفریحی و خلاقانه** |
-|---------------------------|---------------------------|--------------------------|
-| 🤖 چت‌بات فارسی بساز | 📊 مدل‌های عمیق بنویس | 🎮 بازی کلمات هوشمند |
-| 📝 متن‌های خودکار تولید کن | 🔍 موتور جستجوی فارسی | 🎵 شعر با AI بساز |
-| 💬 احساسات رو تشخیص بده | 🗣️ تبدیل گفتار به متن | 🎭 داستان‌سرایی خودکار |
-| 🔤 ترجمه لحظه‌ای | 📰 خلاصه‌ساز اخبار | 🃏 کوییزهای هوشمند |
-
-</div>
-
-### 🛠️ **تکنولوژی‌های داغ:**
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-🐍_3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-🔥_2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-4.0+-FFD21E?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-🧠_2.13+-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-⚡_0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-🎈_1.25+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
-
----
-
-## 📚 مسیر یادگیری
-
-### 🌱 **مبتدی (۰-۳ ماه)**
-```
-🎯 هدف: پایه‌گذاری و آشنایی
-├── 📖 مبانی Python و NLP
-├── 🔤 پردازش متن فارسی  
-├── 🤖 ساخت اولین چت‌بات
-└── 🏆 پروژه: تحلیل‌گر پیام‌های تلگرام
-```
-
-### 🚀 **متوسط (۳-۸ ماه)**
-```
-🎯 هدف: عمق و تخصص
-├── 🧠 شبکه‌های عصبی و Deep Learning
-├── 🔄 مدل‌های Transformer و BERT
-├── 📊 تحلیل داده‌های بزرگ فارسی
-└── 🏆 پروژه: موتور جستجوی هوشمند
-```
-
-### 🏅 **پیشرفته (۸-۱۲ ماه)**
-```
-🎯 هدف: نوآوری و خلاقیت
-├── 🎨 مدل‌های Generative و GPT
-├── 🗣️ پردازش گفتار فارسی
-├── 👁️ Computer Vision + NLP
-└── 🏆 پروژه: دستیار هوشمند فارسی
-```
-
-### 🌟 **حرفه‌ای (۱۲+ ماه)**
-```
-🎯 هدف: رهبری و تأثیرگذاری
-├── 🔬 تحقیق و توسعه مدل‌های جدید
-├── 📝 انتشار مقالات علمی
-├── 🏢 همکاری با صنعت
-└── 🏆 پروژه: استارتاپ AI فارسی
-```
-
----
-
-## 🎮 چالش‌های باحال
-
-### 🔥 **چالش‌های فعال:**
-
-<div align="center">
-
-| 🏆 نام چالش | 📅 مدت | 🎁 جایزه | 👥 شرکت‌کننده |
-|-------------|---------|----------|----------------|
-| 🤖 **ربات خلاقانه فارسی** | ۲ هفته | 🎯 لپ‌تاپ گیمینگ | ۴۵ نفر |
-| 📊 **تحلیل‌گر ترند توییتر** | ۱۰ روز | 💰 ۵ میلیون تومان | ۳۲ نفر |
-| 🎵 **تولید شعر با AI** | ۱ هفته | 📱 گوشی آیفون | ۲۸ نفر |
-| 🔍 **جستجوگر فارسی** | ۳ هفته | 🏆 اینترنشیپ شرکت | ۶۷ نفر |
-
-</div>
-
-### 🎯 **چالش‌های آینده:**
-- 🎪 **هکاتون AI فارسی** - آذر ۱۴۰۳
-- 🌟 **مسابقه مدل‌سازی** - دی ۱۴۰۳  
-- 🚀 **استارتاپ ویکند** - بهمن ۱۴۰۳
-
----
-
-## 📊 آمار و ارقام تکان‌دهنده
-
-<div align="center">
-
-### 🎯 **دستاوردهای ما:**
-
-![اعضا](https://img.shields.io/badge/اعضای_فعال-۵۰۰+-ff6b6b?style=for-the-badge)
-![پروژه](https://img.shields.io/badge/پروژه_تکمیل_شده-۲۰+-4ecdc4?style=for-the-badge)
-![ورکشاپ](https://img.shields.io/badge/ورکشاپ_برگزار_شده-۳۵+-feca57?style=for-the-badge)
-![کد](https://img.shields.io/badge/خط_کد_نوشته_شده-۱۰۰K+-9b59b6?style=for-the-badge)
-
-### 📈 **نمودار رشد اعضا:**
-```
-ماه  │ اعضا
-─────┼──────
-مهر  │ ████████████████████ 200
-آبان │ ████████████████████████████ 280  
-آذر  │ ██████████████████████████████████████ 380
-دی   │ ████████████████████████████████████████████████ 500
-بهمن │ ██████████████████████████████████████████████████████ 600 (پیش‌بینی)
+class زبان‌کاو:
+    def __init__(self):
+        self.mood = "🔥 انرژی بالا"
+        self.currently_doing = "ساختن مدل‌های NLP فارسی"
+        self.listening_to = "پادکست‌های AI و TED Talks"
+        self.learning = "Transformer Architecture جدید"
+        self.coffee_count = "☕ × 3 امروز"
+    
+    def daily_routine(self):
+        return [
+            "🌅 صبح: مطالعه پیپرهای جدید",
+            "💻 ظهر: کدنویسی و توسعه پروژه‌ها", 
+            "🎓 عصر: آموزش و منتورینگ",
+            "🌙 شب: ایده‌پردازی و خلاقیت"
+        ]
 ```
 
 </div>
 
 ---
 
-## 🤝 جامعه ما
-
-### 📱 **پلتفرم‌های ارتباطی:**
+## 🎯 **آمار و ارقام زنده**
 
 <div align="center">
 
-| 🌐 پلتفرم | 👥 اعضا | 📊 فعالیت | 🔗 لینک |
-|-----------|---------|-----------|---------|
-| **📢 کانال تلگرام** | ۵۰۰+ | روزانه | [@ZabanKavIAUQ](https://t.me/ZabanKavIAUQ) |
-| **💬 گروه چت** | ۲۵۰+ | لحظه‌ای | [عضویت](https://t.me/ZabanKavChat) |
-| **🎥 یوتیوب** | ۱۵۰+ | هفتگی | [کانال](https://youtube.com/@zabankav) |
-| **📸 اینستاگرام** | ۳۰۰+ | روزانه | [@zabankav.ai](https://instagram.com/zabankav.ai) |
+### 📊 **دَشبورد فعالیت:**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zabankav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zabankav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=ffffff)
+
+### ⚡ **GitHub Streak:**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zabankav&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff)
 
 </div>
 
-### 🎪 **رویدادهای هفتگی:**
-- **🌟 دوشنبه‌ها:** ورکشاپ تخصصی (۱۶-۱۸)
-- **🔥 چهارشنبه‌ها:** چالش کدنویسی (۱۹-۲۱)
-- **💡 جمعه‌ها:** ایده‌پردازی و بحث آزاد (۱۵-۱۷)
-- **🎮 شنبه‌ها:** مسابقه و کوییز (۲۰-۲۲)
+---
+
+## 🛠️ **جعبه ابزار من**
+
+<div align="center">
+
+### 💻 **زبان‌های برنامه‌نویسی:**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🧠 **AI & ML:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 **وب و API:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### 🛢️ **دیتابیس و ابزارها:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ☁️ **کلود و DevOps:**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
 
 ---
 
-## 🗂️ ساختار پروژه
+## 🎮 **پروژه‌های خفن من**
 
-```
-🗂️ zabankav/
-├── 📁 tutorials/              # آموزش‌های مرحله‌ای
-│   ├── 🌱 beginner/           # مبتدی
-│   ├── 🚀 intermediate/       # متوسط  
-│   └── 🌟 advanced/           # پیشرفته
-├── 📁 projects/               # پروژه‌های عملی
-│   ├── 🤖 chatbots/           # چت‌بات‌ها
-│   ├── 📊 analytics/          # تحلیل داده
-│   └── 🎮 games/              # بازی‌های AI
-├── 📁 datasets/               # دیتاست‌های فارسی
-│   ├── 📰 news/               # اخبار
-│   ├── 📚 literature/         # ادبیات
-│   └── 💬 social/             # شبکه‌های اجتماعی
-├── 📁 models/                 # مدل‌های آماده
-│   ├── 🧠 pretrained/         # از پیش آموزش‌دیده
-│   └── 🎯 custom/             # سفارشی
-├── 📁 tools/                  # ابزارهای کاربردی
-│   ├── 🔧 preprocessing/      # پیش‌پردازش
-│   ├── 📈 visualization/      # تجسم داده
-│   └── 🚀 deployment/         # استقرار
-└── 📁 workshops/              # مواد ورکشاپ‌ها
-    ├── 📹 videos/             # ویدیوها
-    ├── 📝 slides/             # اسلایدها
-    └── 💻 codes/              # کدهای تمرین
-```
+<div align="center">
+
+### 🏆 **ریپازیتوری‌های برتر:**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zabankav&repo=persian-nlp-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff)](https://github.com/zabankav/persian-nlp-toolkit)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zabankav&repo=farsi-sentiment-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff)](https://github.com/zabankav/farsi-sentiment-analyzer)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zabankav&repo=persian-gpt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff)](https://github.com/zabankav/persian-gpt)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zabankav&repo=ai-persian-poet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff)](https://github.com/zabankav/ai-persian-poet)
+
+</div>
 
 ---
 
-## 🚀 شروع سریع
+## 📈 **نمودار فعالیت من**
 
-### ⚡ **نصب فوری:**
-```bash
-# کلون کردن ریپازیتوری
-git clone https://github.com/zabankav/zabankav.git
-cd zabankav
+<div align="center">
 
-# ساخت محیط مجازی
-python -m venv venv
-source venv/bin/activate  # در ویندوز: venv\Scripts\activate
+### 🔥 **Contribution Graph:**
 
-# نصب وابستگی‌ها
-pip install -r requirements.txt
+![Snake animation](https://github.com/zabankav/zabankav/blob/output/github-contribution-grid-snake-dark.svg)
 
-# اجرای اولین برنامه
-python examples/hello_zabankav.py
+### 📊 **آمار هفتگی:**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zabankav&theme=tokyo-night&bg_color=0D1117&color=667EEA&line=667EEA&point=FF6B6B&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 **اهداف و رؤیاهای من**
+
+<div align="center">
+
+### 🚀 **در حال کار روی:**
+
+```javascript
+const current_projects = {
+    "🔥 فوری": {
+        "مدل GPT فارسی": "95% کامل",
+        "API تحلیل احساسات": "80% کامل", 
+        "ربات تلگرام هوشمند": "60% کامل"
+    },
+    "📅 برنامه‌ریزی شده": {
+        "موتور جستجوی فارسی": "Q2 2024",
+        "اپ موبایل AI": "Q3 2024",
+        "پلتفرم آموزش آنلاین": "Q4 2024"
+    },
+    "💭 رؤیاها": {
+        "هوش مصنوعی عمومی فارسی": "2026",
+        "تأسیس استارتاپ AI": "2025",
+        "همکاری با گوگل": "2027"
+    }
+}
 ```
 
-### 🎯 **اولین پروژه شما:**
+### 🎯 **مأموریت ۲۰۲۴:**
+- ✅ ساخت ۱۰ پروژه اوپن‌سورس جدید
+- ⏳ آموزش ۱۰۰۰ نفر در حوزه NLP
+- ⏳ انتشار ۵ مقاله علمی
+- ⏳ برگزاری ۲۰ ورکشاپ تخصصی
+
+</div>
+
+---
+
+## 🌟 **Achievement Board**
+
+<div align="center">
+
+### 🏆 **جوایز و افتخارات:**
+
+![trophy](https://github-profile-trophy.vercel.app/?username=zabankav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+### 🎖️ **مدال‌های من:**
+- 🥇 **رتبه ۱ مسابقه NLP ایران ۲۰۲۳**
+- 🥈 **نفر دوم هکاتون AI تهران**  
+- 🏆 **بهترین پروژه دانشجویی دانشگاه**
+- 🌟 **۱۰۰۰+ ستاره در GitHub**
+- 📚 **۵۰+ مقاله تخصصی منتشر شده**
+
+</div>
+
+---
+
+## 🎪 **جامعه و ارتباطات**
+
+<div align="center">
+
+### 📱 **بیا باهام در ارتباط باش:**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZabanKavIAUQ)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zabankav)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zabankav.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/zabankav)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zabankav)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zabankav)
+
+### 📊 **آمار شبکه‌های اجتماعی:**
+- 📢 **تلگرام:** ۵۰۰+ عضو فعال
+- 🎥 **یوتیوب:** ۱۵۰+ سابسکرایبر
+- 📸 **اینستاگرام:** ۳۰۰+ فالوور
+- 💼 **لینکدین:** ۲۰۰+ کانکشن
+
+</div>
+
+---
+
+## 🎨 **نقل قول‌های انگیزشی**
+
+<div align="center">
+
+### 💭 **فلسفه زندگی من:**
+
+> *"کد زدن مثل شعر گفتنه، هر خط یه احساس، هر فانکشن یه داستان"*
+
+> *"AI فقط یه ابزار نیست، یه رفیق هوشمنده که کمکت می‌کنه آینده رو بسازی"*
+
+> *"زبان فارسی حق داره که تو دنیای دیجیتال هم زنده باشه و بدرخشه"*
+
+### 🎯 **شعار من:**
+```
+     ┌─────────────────────────┐
+     │  🚀 کد کن، بساز، بترکون!  │
+     └─────────────────────────┘
+           زبان‌کاو ۲۰۲۴
+```
+
+</div>
+
+---
+
+## 🎵 **حال و هوای موزیکال**
+
+<div align="center">
+
+### 🎧 **الان دارم گوش می‌دم به:**
+
+[![Spotify](https://novatorem-zabankav.vercel.app/api/spotify)](https://open.spotify.com/user/zabankav)
+
+### 🎶 **پلی‌لیست کدنویسی من:**
+- 🎵 Lo-Fi Hip Hop برای کدنویسی آرام
+- 🎸 Electronic/Synthwave برای پروژه‌های سنگین
+- 🎼 موسیقی کلاسیک برای مطالعه
+- 🎤 پادکست‌های AI برای یادگیری
+
+</div>
+
+---
+
+## 🌙 **Fun Facts درباره من**
+
+<div align="center">
+
+### 🤪 **چیزهایی که شاید نمی‌دونستی:**
+
 ```python
-"""
-🎉 خوش اومدی به زبان‌کاو!
-اولین چت‌بات فارسی خودت رو بساز
-"""
-from zabankav import PersianChatBot
+fun_facts = {
+    "☕": "روزانه ۴-۵ فنجان قهوه می‌خورم",
+    "🌙": "شب‌ها کدنویسی می‌کنم، صبح‌ها مطالعه",
+    "🎮": "عاشق بازی‌های پازلی و استراتژی",
+    "📚": "هر ماه ۳-۴ کتاب تکنیکال می‌خونم",
+    "🍕": "پیتزا قورمه سبزی ایده ندیده!",
+    "🎬": "فیلم‌های علمی تخیلی رو دوست دارم",
+    "🏃": "هر روز ۳۰ دقیقه ورزش می‌کنم",
+    "🎨": "تو اوقات فراغت طراحی دیجیتال می‌کنم"
+}
 
-# ساخت چت‌بات
-bot = PersianChatBot(name="دستیار من")
-
-# آموزش سریع
-bot.train([
-    ("سلام", "سلام! چطوری؟ 😊"),
-    ("حالت چطوره؟", "عالی هستم! ممنون که پرسیدی 🌟"),
-    ("زبان‌کاو چیه؟", "بهترین جامعه AI فارسی! 🚀")
-])
-
-# شروع چت
-while True:
-    user_input = input("شما: ")
-    if user_input == "خروج":
-        break
-    response = bot.get_response(user_input)
-    print(f"ربات: {response}")
+print("اینا همه چیزیه که منو می‌سازه! 😄")
 ```
 
----
-
-## 🏆 تیم برتر ما
-
-<div align="center">
-
-### 👑 **مؤسسین و رهبران**
-
-| 👤 نام | 💼 نقش | 🌟 تخصص | 📱 ارتباط |
-|--------|---------|----------|-----------|
-| **علی محمدی** | 👑 بنیان‌گذار | Deep Learning | [@alimohammadi](https://t.me/alimohammadi) |
-| **فاطمه احمدی** | 🧠 رئیس تحقیقات | NLP فارسی | [@fateme_ahmadi](https://t.me/fateme_ahmadi) |
-| **محمد رضایی** | 💻 مدیر فنی | MLOps | [@mohammadrezaei](https://t.me/mohammadrezaei) |
-| **سارا کریمی** | 🎨 مدیر طراحی | UI/UX | [@sara_karimi](https://t.me/sara_karimi) |
-
-### 🌟 **مربیان و منتورها**
-- **دکتر احمد نوری** - استاد NLP دانشگاه تهران
-- **مهندس سینا فرهادی** - متخصص AI در دیجی‌کالا  
-- **دکتر مریم صادقی** - محقق در گوگل AI
-
 </div>
 
 ---
 
-## 🎁 مزایای عضویت
-
-### 💎 **اعضای ویژه دریافت می‌کنند:**
+## 🎁 **هدیه برای بازدیدکنندگان**
 
 <div align="center">
 
-| 🎯 ویژگی | 🆓 رایگان | 💎 ویژه | 👑 پریمیوم |
-|----------|-----------|----------|-------------|
-| **📚 دسترسی به آموزش‌ها** | ✅ محدود | ✅ کامل | ✅ کامل + جدید |
-| **💻 پروژه‌های عملی** | ✅ ۳ پروژه | ✅ ۱۰ پروژه | ✅ نامحدود |
-| **🤝 منتورینگ شخصی** | ❌ | ✅ ماهانه | ✅ هفتگی |
-| **🏆 شرکت در مسابقات** | ✅ عمومی | ✅ تخصصی | ✅ VIP |
-| **📱 اپلیکیشن موبایل** | ❌ | ✅ محدود | ✅ کامل |
-| **🎓 گواهینامه معتبر** | ❌ | ✅ پایه | ✅ حرفه‌ای |
+### 🎉 **برای اینکه تا اینجا خوندی، یه هدیه کوچولو:**
 
-**قیمت:** رایگان | ۵۰ هزار تومان/ماه | ۱۵۰ هزار تومان/ماه
+```python
+def thanks_for_visiting():
+    return {
+        "message": "ممنون که پروفایل منو دیدی! 🙏",
+        "gift": "یه کد تخفیف ۵۰٪ برای دوره‌های آنلاین",
+        "code": "GITHUB_VISITOR_2024",
+        "special_access": "دسترسی رایگان به ۱۰ پروژه خفن",
+        "bonus": "منتورینگ رایگان ۳۰ دقیقه‌ای! 💎"
+    }
 
-</div>
+# استفاده کن! 🚀
+print(thanks_for_visiting())
+```
 
----
-
-## 📞 ارتباط با ما
-
-<div align="center">
-
-### 🏢 **اطلاعات تماس**
-
-**🎓 دانشگاه آزاد اسلامی قم - دانشکده هوش مصنوعی**
-
-📍 **آدرس:** قم، خیابان امام خمینی، دانشگاه آزاد اسلامی  
-📧 **ایمیل:** info@zabankav.ai  
-📱 **تلگرام:** [@ZabanKavSupport](https://t.me/ZabanKavSupport)  
-🌐 **وبسایت:** [zabankav.ai](https://zabankav.ai)  
-📞 **تلفن:** ۰۲۵-۳۶۶۹۸۰۰۰
-
-### ⏰ **ساعات پاسخگویی**
-- **شنبه تا چهارشنبه:** ۸:۰۰ تا ۲۰:۰۰
-- **پنج‌شنبه:** ۸:۰۰ تا ۱۸:۰۰  
-- **جمعه:** ۱۵:۰۰ تا ۲۰:۰۰
-
-</div>
-
----
-
-## 🎪 پیوند‌های مفید
-
-<div align="center">
-
-[![تلگرام](https://img.shields.io/badge/Telegram-کانال_اصلی-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZabanKavIAUQ)
-[![یوتیوب](https://img.shields.io/badge/YouTube-ویدیوهای_آموزشی-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zabankav)
-[![اینستاگرام](https://img.shields.io/badge/Instagram-تصاویر_و_استوری-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zabankav.ai)
-[![لینکدین](https://img.shields.io/badge/LinkedIn-شبکه_حرفه‌ای-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/zabankav)
-[![گیت‌هاب](https://img.shields.io/badge/GitHub-کدهای_اوپن_سورس-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zabankav)
+### 🎯 **برای دریافت هدیه، تو تلگرام پیام بده:**
+[@ZabanKavSupport](https://t.me/ZabanKavSupport)
 
 </div>
 
@@ -364,25 +318,16 @@ while True:
 
 <div align="center">
 
-## 🌟 اگه این پروژه رو دوست داری، یه ستاره بهش بده!
+### 💫 **تا اینجا که رسیدی، حتماً کارای منو دوست داری!**
 
-### 💫 **آماده‌ای دنیا رو تغییر بدی؟**
+![Thank You](https://readme-typing-svg.herokuapp.com/?font=Vazir&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=ممنون+که+وقت+گذاشتی!;امیدوارم+مفید+بوده+باشه;حتماً+یه+ستاره+یادت+نره!;و+منو+فالو+کن! 😉)
 
-**با ❤️ ساخته شده توسط تیم زبان‌کاو**
+### 🌟 **یادت نره ستاره بدی و فالو کنی!**
 
-*"آینده زبان رو با هم می‌سازیم، یک مدل در یک زمان"*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling)
 
-[![دنبال کردن](https://img.shields.io/github/followers/zabankav?style=social&label=دنبال+کردن)](https://github.com/zabankav)
-[![ستاره](https://img.shields.io/github/stars/zabankav/zabankav?style=social&label=ستاره)](https://github.com/zabankav/zabankav)
-[![فورک](https://img.shields.io/github/forks/zabankav/zabankav?style=social&label=فورک)](https://github.com/zabankav/zabankav)
-[![مشاهده](https://img.shields.io/github/watchers/zabankav/zabankav?style=social&label=مشاهده)](https://github.com/zabankav/zabankav)
+**💖 با عشق و انرژی ساخته شده توسط زبان‌کاو**
 
-### 🎯 **شعار ما:** "کد کن، بساز، بترکون!" 💥
+*"آینده متعلق به کسانیه که امروز کد می‌زنن!"*
 
-</div>
-
----
-
-<div align="center">
-<sub>© ۱۴۰۳ جامعه زبان‌کاو. تمامی حقوق محفوظ است.</sub>
 </div>
