@@ -26,7 +26,8 @@ Our work spans from linguistic data annotation to machine learning model develop
 - **Core Members**:
   - Ali Bozorgmehr  
   - Yasin Soleymanpanah  
-  - Mohammad Saleh Hashemi  
+  - Mohammad Saleh Hashemi
+  - Mohammad Sajad Danesh
   - Zahra Azimi  
   - Zahra Mahdavinia  
   - Sogand Sedigh
