@@ -19,6 +19,22 @@ Our work spans from linguistic data annotation to machine learning model develop
 
 ---
 
+## 👥 Team
+
+- **Supervisor**: Dr. Mohammad Mahdi Behnam Mehr
+
+- **Core Members**:
+  - Ali Bozorgmehr  
+  - Yasin Soleymanpanah  
+  - Mohammad Saleh Hashemi  
+  - Zahra Azimi  
+  - Zahra Mahdavinia  
+  - Sogand Sedigh
+
+We are proud to be a student-driven team with academic support, working at the intersection of AI and linguistics.
+
+---
+
 ## 🛠️ Projects
 
 Some of our active and planned projects include:
@@ -101,4 +117,3 @@ All projects in this organization are released under [MIT License](./LICENSE) un
 ---
 
 Thank you for visiting our GitHub! Let's build smarter language systems — together.
-
