@@ -95,7 +95,7 @@ Together, we can build the future of Persian NLP.
 
 ## 📩 Contact
 
-📧 **Email**: zabankav@iauq.ac.ir (or your actual contact)  
+📧 **Email**: zabankav.team@gmail.com
 🌐 **Website**: [Coming Soon]  
 📍 **Location**: Qom, Iran  
 📦 **GitHub**: [github.com/zabankav](https://github.com/zabankav)
