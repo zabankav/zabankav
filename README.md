@@ -27,7 +27,6 @@ Our work spans from linguistic data annotation to machine learning model develop
   - Ali Bozorgmehr  
   - Yasin Soleymanpanah  
   - Mohammad Saleh Hashemi
-  - Mohammad Sajad Danesh
   - Zahra Azimi  
   - Zahra Mahdavinia  
   - Sogand Sedigh
