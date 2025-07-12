@@ -98,7 +98,7 @@ Together, we can build the future of Persian NLP.
 
 🌐 **Website**: [Coming Soon]  
 📍 **Location**: Qom, Iran  
-📦 **GitHub**: [github.com/zabankav](https://github.com/zabankav)
+📦 **GitHub**: [github.com/ZabanKav-IAUQ](https://github.com/ZabanKav-IAUQ)
 
 ---
 
