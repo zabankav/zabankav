@@ -24,12 +24,7 @@ Our work spans from linguistic data annotation to machine learning model develop
 - **Supervisor**: Dr. Mohammad Mahdi Behnam Mehr
 
 - **Core Members**:
-  - Ali Bozorgmehr  
-  - Yasin Soleymanpanah  
-  - Mohammad Saleh Hashemi
-  - Zahra Azimi  
-  - Zahra Mahdavinia  
-  - Sogand Sedigh
+
 
 We are proud to be a student-driven team with academic support, working at the intersection of AI and linguistics.
 
